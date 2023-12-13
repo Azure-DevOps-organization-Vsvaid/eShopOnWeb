@@ -9,7 +9,7 @@ using Microsoft.eShopWeb.Web.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-
+//
 namespace Microsoft.eShopWeb.FunctionalTests.Web;
 
 public class TestApplication : WebApplicationFactory<IBasketViewModelService>
